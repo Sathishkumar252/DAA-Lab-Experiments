@@ -1,0 +1,1 @@
+def first_fit(items, capacity=1.0):
